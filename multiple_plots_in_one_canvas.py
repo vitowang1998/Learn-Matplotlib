@@ -23,3 +23,5 @@ axes2.set_title('Time-Distance Graph')
 
 axes1.plot(x, y)
 axes2.plot(y, x)
+
+plt.show()
